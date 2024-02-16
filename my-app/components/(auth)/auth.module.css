@@ -1,0 +1,29 @@
+  .header {
+    padding: 5px;
+    font-size: 30px;
+  }
+  .form div{
+    display: grid;
+    grid-template-columns: 30%;
+    padding: 5px;
+  }
+  
+  .label {
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    padding: 2px;
+    border-radius: 5px;
+  }
+  .divButton {
+    padding: 10px;
+  }
+  .button {
+    padding: 10px;
+    background-color: #00aeff;
+    border-radius: 5px;
+  }
+  .link {
+    padding: 10px;
+  }
